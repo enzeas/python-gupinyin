@@ -1,0 +1,3 @@
+[submodule "rime-middle-chinese"]
+	path = rime-middle-chinese
+	url = https://github.com/biopolyhedron/rime-middle-chinese.git
